@@ -10,8 +10,6 @@ A production-ready React component library built for the National Rugby League d
 
 **[🎨 View Storybook Demo](https://nrl-components.vercel.app)** | **[📦 NPM Package](https://www.npmjs.com/package/@nrl/components)**
 
-![Component Library Preview](https://via.placeholder.com/800x400/0B8246/FFFFFF?text=NRL+Component+Library)
-
 ---
 
 ## ✨ Features
