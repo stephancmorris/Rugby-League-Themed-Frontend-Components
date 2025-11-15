@@ -273,21 +273,7 @@ npm run lint
 
 ---
 
-## 📈 Roadmap
 
-### Q1 2025
-- [ ] React Native support for mobile apps
-- [ ] Advanced data visualization components
-- [ ] AI-powered match predictions component
-- [ ] Live video player component
-
-### Q2 2025
-- [ ] Micro-frontend architecture support
-- [ ] Web Components build
-- [ ] GraphQL data fetching hooks
-- [ ] Internationalization (i18n) for global expansion
-
----
 
 ## 📄 License
 
